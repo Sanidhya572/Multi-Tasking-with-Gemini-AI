@@ -1,5 +1,5 @@
 
-title: MultiTask GeminiApp
+title: Sync to Hugging Face hub
 
 emoji: 😁
 
